@@ -4,8 +4,6 @@
 📬 Email: nicednjsdud@gmail.com  
 🔗 Blog: [nicednjsdud.github.io](https://nicednjsdud.github.io/)  
 
----
-
 ### 🛠 Interests  
 <div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -24,9 +22,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 </div>
 
----
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://solved.ac/nicednjsdud">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
     </a>
