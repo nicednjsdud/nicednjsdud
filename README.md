@@ -8,7 +8,8 @@
 
 ## 🛠 Tech Stacks
 <div align="center">
-    ### **Backend**
+    
+### **Backend**
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
@@ -22,7 +23,6 @@
 ### **DevOps**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 </div>
 
 ---
