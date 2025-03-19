@@ -24,10 +24,10 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://solved.ac/nicednjsdud">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필" width="450">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=nicednjsdud&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=nicednjsdud&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
     </a>
 </div>
 
