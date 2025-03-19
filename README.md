@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&text=Welcome%20to%20My%20GitHub!&fontColor=000000&fontSize=40" />
-</div>
-
----
-
 ## 📌 Profile
 **(주) 브로넥스 | 선임 연구원 (2022.12 ~ 2025.02)**  
   - ERP & MES 시스템 개발 및 고도화  
