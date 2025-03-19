@@ -27,14 +27,14 @@
 ---
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
+    <table style="border-collapse: collapse; border: none;">
+        <tr style="border: none;">
+            <td style="border: none;">
                 <a href="https://solved.ac/nicednjsdud">
                     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
                 </a>
             </td>
-            <td>
+            <td style="border: none;">
                 <a href="https://github.com/anuraghazra/github-readme-stats">
                     <img src="https://github-readme-stats.vercel.app/api?username=nicednjsdud&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
                 </a>
