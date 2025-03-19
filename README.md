@@ -1,8 +1,15 @@
-## 👋 About Me
-<div align="center" style="font-size: 16px; font-weight: 500;">
-    안녕하세요! Kotlin & Spring Boot 기반의 백엔드 개발자 <b>nicednjsdud</b> 입니다.  
-    <br>확장성 높은 시스템 설계와 안정적인 서비스 운영에 관심이 많습니다.
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&text=Welcome%20to%20My%20GitHub!&fontColor=000000&fontSize=40" />
 </div>
+
+---
+
+## 📌 Profile
+**(주) 브로넥스 | 선임 연구원 (2022.12 ~ 2025.02)**  
+  - ERP & MES 시스템 개발 및 고도화  
+  - 대규모 데이터 처리 및 API 성능 최적화  
+  - Kafka 기반 비동기 데이터 연동 구축  
+  - CI/CD 자동화 및 배포 최적화  
 
 ---
 
@@ -23,6 +30,13 @@
 ### **DevOps**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+
+### **Version Control & Others**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+
 </div>
 
 ---
@@ -41,5 +55,3 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
     </a>
 </div>
-
----
