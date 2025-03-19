@@ -26,4 +26,6 @@
     <a href="https://solved.ac/nicednjsdud">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
     </a>
+    [![nicednjsdud's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicednjsdud&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
