@@ -26,7 +26,7 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
     <a href="https://solved.ac/nicednjsdud">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nicednjsdud" alt="solved.ac 프로필">
     </a>
