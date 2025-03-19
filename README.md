@@ -6,7 +6,7 @@
 - CI/CD 자동화 및 배포 최적화  
 
 ### 🛠 Interests  
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
