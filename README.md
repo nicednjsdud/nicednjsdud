@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stacks
+## 🛠 Interests 
 <div align="center">
     
 ### **Backend**
@@ -43,8 +43,3 @@
 </div>
 
 ---
-
-## 🚀 Contributions
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicednjsdud&theme=github-dark">
-</div>
