@@ -1,5 +1,4 @@
 ### 📌 Profile  
-#### **(주) 브로넥스 | Backend Developer (2022.12 ~ 2025.02)**  
 
 📬 Email: nicednjsdud@gmail.com  
 🔗 Blog: [nicednjsdud.github.io](https://nicednjsdud.github.io/)  
